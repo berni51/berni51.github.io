@@ -1,6 +1,6 @@
 # Aus dem Alltag eines Unix-Fanboys
 
-Vielleicht ist Github die letzte Chance, es endlich umzusetzen! Seit Jahren, nein, Jahrzehnten, nehme ich mir immer wieder vor, diese kleinen Erfahrungen, die man im Alltag so mit seinen Betriebssystemen macht, niederzuschreiben und damit zu dokumentieren. Und das auch noch systematisch, konsequent und gut les- und auffindar. Hab ich mir also schon sei ewigen Zeiten vorgenommen - und nie wirklich realisiert. Statt dessen fliegen irgendwo kleine Schmierzettel herum und chaotisch auf diversen Festplatten schlummern Textdateien mit kryptischen Namen. 
+Vielleicht ist Github die letzte Chance, es endlich umzusetzen! Seit Jahren, nein, Jahrzehnten, nehme ich mir immer wieder vor, diese kleinen Erfahrungen, die man im Alltag so mit seinen Betriebssystemen macht, niederzuschreiben und damit zu dokumentieren. Und das auch noch systematisch, konsequent und gut les- und auffindbar. Hab ich mir also schon sei ewigen Zeiten vorgenommen - und nie wirklich realisiert. Statt dessen fliegen irgendwo kleine Schmierzettel herum und chaotisch auf diversen Festplatten schlummern Textdateien mit kryptischen Namen. 
 
 Resultat: Nach wie vor verbringe ich viel zu viel Zeit damit, meine eigenen Erfahrungen wiederzufinden oder neu machen zu müssen oder mal wieder zu googeln. Kein schöner Zustand, aber damit lebe ich jetzt seit über 40 Jahren.
 
