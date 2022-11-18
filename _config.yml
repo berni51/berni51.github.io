@@ -19,7 +19,7 @@ hideSummary: false
 menu:
   main:
   - identifier: Anfänge
-    name: "Die Anfänge"
+    name: Anfänge
     url: anfang/
     weight: 10
   - identifier: about
