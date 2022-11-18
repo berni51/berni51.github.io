@@ -1,6 +1,6 @@
 title: "Unix und ich"
 paginate: 10
-theme: dinky
+theme: midnight
 buildDrafts: false
 buildFuture: false
 buildExpired: false
