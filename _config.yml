@@ -20,14 +20,14 @@ menu:
   main:
   - identifier: Anfänge
     name: "Die Anfänge"
-    url: /anfang/
+    url: anfang/
     weight: 10
   - identifier: about
     name: About
-    url: /README/
+    url: README/
     weight: 20
   - identifier: impressum
     name: Impressum
-    url: /impressum/
+    url: impressum/
     weight: 30
       
