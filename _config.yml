@@ -1,6 +1,6 @@
 title: "Unix und ich"
 paginate: 10
-theme: minima
+theme: minimal
 buildDrafts: false
 buildFuture: false
 buildExpired: false
