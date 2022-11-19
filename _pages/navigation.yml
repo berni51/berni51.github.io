@@ -1,0 +1,12 @@
+ 
+  - link: /
+  name: Home
+- link: /about/
+  name: About
+  highlight: true
+- link: /impressum
+  name: Impressum
+  highlight: true
+- link: /anfang/
+  name: Story
+
