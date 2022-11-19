@@ -35,7 +35,7 @@ hideSummary: false
     url: ""
     weight: 1
 
-[[menu.main]]
+[[menu.main]]:
     name: "Anfänge"
     url: "anfang/"
     weight: 2
