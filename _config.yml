@@ -7,6 +7,10 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+include:
+- _pages
+- _posts
+
 params:
 #title: "Aus dem Tagebuch eines Unix-Fanboys"
 #
