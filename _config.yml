@@ -30,7 +30,7 @@ ShowWordCount: true
 comments: false
 hideSummary: false
 
-[[menu.main]]
+[[menu.main]]:
     name: "Blog"
     url: ""
     weight: 1
