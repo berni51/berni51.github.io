@@ -1,5 +1,5 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
++++layout: page
++++title: "About"
++++permalink: /_pages
 
 Nothing about me.
