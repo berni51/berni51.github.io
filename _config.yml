@@ -31,14 +31,14 @@ comments: false
 hideSummary: false
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
+    name: "Blog"
+    url: ""
+    weight: 1
 
 [[menu.main]]
-    name = "Anfänge"
-    url = "anfang/"
-    weight = 2
+    name: "Anfänge"
+    url: "anfang/"
+    weight: 2
 
 #menu:
 #  main:
