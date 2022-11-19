@@ -1,4 +1,6 @@
 title: "Unix - Erlebnisse mit einem Betriebssystem"
+subtitle: "Erlebnisse mit einem Betriebssystem"
+description: "Erlebnisse, Erfahrungen und Erkenntnisse mit einem Betriebssystem"
 paginate: 10
 theme: jekyll-theme-midnight
 buildDrafts: false
@@ -7,7 +9,7 @@ buildExpired: false
 
 params:
 #title: "Aus dem Tagebuch eines Unix-Fanboys"
-#description: "Erlebnisse, Erfahrungen und Erkenntnisse mit einem Betriebssystem"
+#
 author: B.S.Ernst
 DateFormat: "1.11.2022"
 ###
