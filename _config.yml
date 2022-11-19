@@ -20,6 +20,14 @@ DateFormat: "1.11.2022"
 
 source: [berni51.github.io]
 
+menu:
+- text: Home
+  url: /
+- text: About
+  url: about.md
+- text: "Unix Story"
+  url: _pages/anfang.md
+
 header_pages:
   - _pages/anfang.md
   - about.md
