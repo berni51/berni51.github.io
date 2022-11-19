@@ -30,20 +30,20 @@ ShowWordCount: true
 comments: false
 hideSummary: false
 
-[[menu.main]]:
-    name: "Blog"
-    url: ""
-    weight: 1
-
-[[menu.main]]:
-    name: "Anfänge"
-    url: "anfang/"
-    weight: 2
-
-[[menu.main]]:
-    name: "About"
-    url: "_page/about.md/"
-    weight: 3
+#[[menu.main]]:
+#    name: "Blog"
+#    url: ""
+#    weight: 1
+#
+#[[menu.main]]:
+#    name: "Anfänge"
+#    url: "anfang/"
+#    weight: 2
+#
+#[[menu.main]]:
+#    name: "About"
+#    url: "_page/about.md/"
+#    weight: 3
 
 #menu:
 #  main:
