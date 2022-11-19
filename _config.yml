@@ -2,7 +2,7 @@ title: "Unix und ich"
 subtitle: "Erlebnisse mit einem Betriebssystem"
 description: "Erlebnisse, Erfahrungen und Abenteuer mit einem Betriebssystem"
 paginate: 10
-#theme: jekyll-theme-midnight
+theme: jekyll-theme-midnight
 buildDrafts: false
 buildFuture: false
 buildExpired: false
