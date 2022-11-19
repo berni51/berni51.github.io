@@ -30,18 +30,18 @@ ShowWordCount: true
 comments: false
 hideSummary: false
 
-menu:
-  main:
-  - identifier: Anfänge
-    name: Anfänge
-    url: /anfang/
-    weight: 10
-  - identifier: about
-    name: About
-    url: /README/
-    weight: 20
-  - identifier: impressum
-    name: Impressum
-    url: /impressum/
-    weight: 30
+#menu:
+#  main:
+#  - identifier: Anfänge
+#    name: Anfänge
+#    url: /anfang/
+#    weight: 10
+#  - identifier: about
+#    name: About
+#    url: /README/
+#    weight: 20
+#  - identifier: impressum
+#    name: Impressum
+#    url: /impressum/
+#    weight: 30
       
