@@ -42,7 +42,7 @@ hideSummary: false
 #
 [[menu.main]]:
     name: "About"
-    url: "about.md/"
+    url: "_pages/about.md/"
     weight: 3
 
 #menu:
