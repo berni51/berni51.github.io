@@ -40,10 +40,10 @@ hideSummary: false
 #    url: "anfang/"
 #    weight: 2
 #
-#[[menu.main]]:
-#    name: "About"
-#    url: "_page/about.md/"
-#    weight: 3
+[[menu.main]]:
+    name: "About"
+    url: "about.md/"
+    weight: 3
 
 #menu:
 #  main:
